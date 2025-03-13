@@ -1,0 +1,11 @@
+# Virtual Environment
+.venv/
+
+# Cache
+__pycache__/
+
+# LFS tracked files
+*.ckpt
+*.pkl
+results/
+models/
